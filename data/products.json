@@ -1,14 +1,14 @@
 [
   {
-    "name":"fa",
+    "name":"tab",
     "price":5000
   },
   {
-    "name":"pl",
+    "name":"piyen",
     "price":15000
   },
   {
-    "neme":"cc",
+    "neme":"dodohole",
     "price":23000
   }
 ]
